@@ -8,4 +8,12 @@
 <li>Variable naming convention</li>
 </ol>
 
+
+<h4>DataType</h4>
+<ol>
+<li> </li>
+<li> </li>
+<li></li>
+
+</ol>
   
