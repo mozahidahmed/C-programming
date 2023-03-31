@@ -1,5 +1,5 @@
+//01.Create variable 
 #include <stdio.h>
-
 int main()
 {
     int name = 60;
@@ -24,7 +24,7 @@ int main()
     return 0;
 }
 
-// 03. variable add a new variable 
+// 03. Assign variable to Another Variable
 #include <stdio.h>
 
 int main()
@@ -37,3 +37,10 @@ int main()
 
     return 0;
 }
+
+//04.Declaring multiple variable at once 
+int column = 0, row = 5, index = 5550;
+
+// 05. Variable naming convention
+int number=0
+
