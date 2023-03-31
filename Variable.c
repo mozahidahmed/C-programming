@@ -37,7 +37,7 @@ int main()
 
     return 0;
 }
-
+//
 //04.Declaring multiple variable at once 
 int column = 0, row = 5, index = 5550;
 
