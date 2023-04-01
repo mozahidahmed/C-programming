@@ -11,9 +11,11 @@
 
 <h4>02. DataType</h4>
 <ol>
-<li> </li>
-<li> </li>
-<li></li>
+<li>int </li>
+<li>float </li>
+<li>double</li>
+<li>char</li>
+<li>sizeOf</li>
 
 </ol>
   
