@@ -7,7 +7,12 @@
    04. Declaring multiple variable at once 
    05. Variable naming convention 
    
-
+03. Datatype
+   01. int %d 4
+   02. double %If 8 
+   03. float %f  4
+   04. char %c   1
+   05. sizeof(int) data type 
 
 
 
