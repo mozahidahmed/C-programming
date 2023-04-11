@@ -18,27 +18,23 @@ int main()
 
 
 //pass array to function 
+.
 #include <stdio.h>
-float calculateSum(float num[]);
 
-int main()
-{
-    float result, num[] = {23.4, 55, 22.6, 3, 40.5, 18};
+// notice the use of [ ] here
+void printAge(int age[]) {
 
-    // num array is passed to calculateSum()
-    result = calculateSum(num);
-    printf("Result = %.2f", result);
-    return 0;
+  // print elements of the array
+  printf("%d\n", age[0]); // 2
+  printf("%d\n", age[2]); // 4
 }
 
-float calculateSum(float num[])
-{
-    float sum = 0.0;
+int main() {
+  int ageArray[] = {2, 8, 4, 12};
 
-    for (int i = 0; i < 6; ++i)
-    {
-        sum += num[i];
-    }
+  // notice we do not use []
+  // during the function call
+  printAge(ageArray);
 
-    return sum;
+  return 0;
 }
