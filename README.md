@@ -6,7 +6,7 @@
 <li>operator</li>
 <h4>02.Array </h4>
 <h4>03.Function</h4>
-<h4>04.Pointer</h4>
+<h4>04.Pointar</h4>
 
   
 
